@@ -1,0 +1,14 @@
+textfield:
+foreground: [0,255,255]
+border: [0,102,102]
+
+jcombo:
+foreground: [0,255,255]
+border: [204,204,204]
+
+title: 18 bold
+label : 11 bold
+textfield: 10 bold
+jcombo: 10 bold
+button: 12 bold
+textarea: 10 bold
